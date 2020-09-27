@@ -3,4 +3,4 @@ AmongBot est un Bot Discord crée en NodeJS sous la librairie DiscordJS permetta
 
 *Il est en cours de développement*
 
-<iframe src="https://ptb.discordapp.com/widget?id=756959419270692936&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://ptb.discordapp.com/api/guilds/756959419270692936/widget.json
