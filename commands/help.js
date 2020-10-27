@@ -26,6 +26,11 @@ module.exports = {
 					name : '!mute / !unmute',
 					value : "```Cette commande permet de mute et de unmute un salon entier afin de pouvoir jouer tranquillement.```"
 					
+				},
+				{
+					name : '!mort <@user>',
+					value : "```Cette commande permet d'annoncer la mort d'un joueur ainsi il ne pourra plus parler et sera transferer dans le channel des morts.```"
+					
 				}
 				
 			],
