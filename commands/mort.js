@@ -12,12 +12,13 @@ module.exports =
         {
             member.roles.add(role)
             message.channel.send(message.mentions.members.first().user.username +" est mort. Ne peux donc plus parler.(Refaire !mort dès la fin de la game pour pouvoir parler)")
-            member.voice.setChannel('770767935681069067')
+            member.voice.setChannel('756959419769815116')
         }
         else
         {
             member.roles.remove(role)
             message.channel.send(message.mentions.members.first().user.username +" peut à nouveau parler.")
+            member.voice.setChannel('756959419769815115')
             
         }
       
